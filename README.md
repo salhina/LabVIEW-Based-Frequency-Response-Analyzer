@@ -1,3 +1,8 @@
+---
+layout: custom_layout
+title: "My Projects"
+---
+
 # LabVIEW-Based Frequency Response Analyzer
 ## Academic Project Report
 
