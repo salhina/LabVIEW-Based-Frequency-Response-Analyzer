@@ -114,6 +114,7 @@ Develop a comprehensive frequency response analysis system using LabVIEW for pre
 - Machine learning-based signal characterization
 - Adaptive filtering enhancements
 - Integration with advanced measurement platforms
+
 <!--
 ## 7. Repository Structure
 
@@ -132,6 +133,7 @@ Develop a comprehensive frequency response analysis system using LabVIEW for pre
   └── LICENSE
 ```
 -->
+
 ## 7. User Interface and Results Visualization
 
 ### 7.1 Graphical User Interface
