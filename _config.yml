@@ -6,3 +6,9 @@ markdown: kramdown
 # Enable the Table of Contents (TOC) feature
 toc: true
 toc_levels: 1
+
+
+---
+layout: custom_layout
+title: "My Projects"
+---
