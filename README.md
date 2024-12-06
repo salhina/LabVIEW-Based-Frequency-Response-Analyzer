@@ -7,6 +7,8 @@
 - **Academic Level**: Diplôme Universitaire de Technologie (DUT)
 - **Project Author**: Nabil Salhi
 
+![LabVIEW Frequency Response Analyzer GUI](./Media/Frequency_Analysis_GUI.png)
+
 ## 1. Technical Overview
 
 ### 1.1 Project Objective
@@ -160,7 +162,7 @@ The LabVIEW-based Frequency Response Analyzer represents a robust, flexible plat
 - Scalable and extensible architecture
 
 ---
-
-**Academic Advisor**: --
+<!--
+**Academic Advisor**: -->
 **Institution**: Mohammed V University, Electrical Engineering Department
 **Year**: 2011
