@@ -1,2 +1,8 @@
 theme: jekyll-theme-leap-day  # Example theme, you can change this to your preferred theme
 markdown: kramdown
+
+
+
+# Enable the Table of Contents (TOC) feature
+toc: true
+toc_levels: 1
