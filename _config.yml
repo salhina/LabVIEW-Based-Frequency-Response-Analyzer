@@ -1,0 +1,3 @@
+remote_theme: "sproogen/resume-theme" # Or any other remote theme
+plugins:
+  - jekyll-remote-theme
