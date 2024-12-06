@@ -1,9 +1,4 @@
----
-layout: default
-title: "LabVIEW-Based-Frequency-Response-Analyzer"
-toc: true
-toc_levels: 1
----
+
 
 # LabVIEW-Based Frequency Response Analyzer
 ## Academic Project Report
